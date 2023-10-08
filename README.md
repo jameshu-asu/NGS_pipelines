@@ -30,7 +30,7 @@ Scripts are comatable with Python 3.9.14+, Pandas 2.0+, Biopython 1.80+
   ```
 
   ```sh
-  conda install pandas
+  conda install -c conda-forge pandas
   ```
 
   ```sh
