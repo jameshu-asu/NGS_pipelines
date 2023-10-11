@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">Streamlit Dashboard</h3>
+  <h3 align="center">NGS Pipelines</h3>
   <p align="center">
 </div>
 
