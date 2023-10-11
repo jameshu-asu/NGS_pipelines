@@ -14,7 +14,7 @@ The purpose of this project was to refactor and combine existing python, shell a
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Scripts are comatable with Python 3.9.14+, Pandas 2.0+, Biopython 1.80+
+Scripts are compatable with Python 3.9.14+, Pandas 2.0+, Biopython 1.80+
 
 ### Prerequisites
 
