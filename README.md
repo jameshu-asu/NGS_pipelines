@@ -8,7 +8,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The purpose of this project was to refactor and combine existing python, shell and awk NGS secondary analysis cripts from existing pipelines into a single python script. 
+The purpose of this project was to refactor and combine existing python, shell and awk NGS secondary analysis scripts from existing pipelines into a single python script. 
 
 
 <!-- GETTING STARTED -->
