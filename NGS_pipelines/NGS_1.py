@@ -5,7 +5,7 @@ from Bio import SeqIO
 from itertools import zip_longest
 
 '''by James C. Hu
-This scipt contains funcitons for commonly used CLI tools.
+This scipt contains functions for commonly used CLI tools.
 '''
 
 
